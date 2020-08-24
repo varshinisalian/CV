@@ -1,0 +1,46 @@
+header{
+           background-color:#615f5f;
+           height:auto;
+            display:flex;
+      }
+#name{
+        color:aliceblue;
+        padding-left: 30px;
+        padding-top: 30px;
+        left:30px;
+      
+     }
+#address{
+          color:aliceblue;
+          padding-left:280px;
+        
+        }
+        
+        
+
+ footer{
+          
+          background-color: #615f5f;
+          height:25px;
+       }
+
+body{
+    
+        border: 2px solid black;
+        position: absolute;
+        top: 10px;
+        left: 15%;
+       
+    }
+#cgpa{
+    padding-left:324px;
+    
+    
+}
+#year{
+    padding-left: 60px;
+}
+
+
+
+
